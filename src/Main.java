@@ -11,7 +11,7 @@ public class Main {
     public static void menu()
     {
         System.out.println("------------------                                           ------------------");
-        System.out.println("                  @WELCOME TO THE SHOWROOM MANAGEMENT SYSTEM@                  ");
+        System.out.println("                  @@WELCOME TO THE SHOWROOM MANAGEMENT SYSTEM@@                  ");
         System.out.println("------------------                                           ------------------");
         System.out.println();
         System.out.println("1 ADD SHOWROOM                                2 ADD EMPLOYEE");
